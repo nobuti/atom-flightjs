@@ -1,5 +1,5 @@
 # FlightJS Snippets for [Atom](http://atom.io)
-![Demo](https://cloud.githubusercontent.com/assets/398893/3528118/f07c2072-078b-11e4-93e9-ccb1339824e6.gif)
+![atom-flighjs](https://cloud.githubusercontent.com/assets/1366843/11929963/aad9c4a2-a7df-11e5-8da5-bf588d6ba620.gif)
 
 ## Install
 
