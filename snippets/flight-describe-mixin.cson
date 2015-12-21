@@ -8,7 +8,7 @@
       beforeEach(function() {
         setupComponent();
       });
-      
+
       it('${2:should…}', function() {
         ${3:expect(this.component.doSomething()).toBe(expected);}$0
       });
