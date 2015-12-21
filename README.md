@@ -57,7 +57,7 @@ Tab triggers exist for all of the snippets, usually you should start typping `fl
 
 ## History
 
-Check [Release](https://github.com/nobuti/flightjs/releases) list.
+Check [Release](https://github.com/nobuti/atom-flighjs/releases) list.
 
 ## License
 
