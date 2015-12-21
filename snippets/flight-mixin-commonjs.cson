@@ -3,8 +3,10 @@
     "prefix": "flight.mixin.commonjs"
     "body": """
     module.exports = with${1:MyMixin};
+    
     function with${1:MyMixin}() {
       'use strict';
+
       this.${2:doSomething} = function() {
         $0
       };
