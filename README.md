@@ -17,7 +17,34 @@ $ apm link
 
 ## Usage
 
-Tab triggers exist for all of the snippets, you can also list the available snippets using ⌘-⇧-P on OSX or ctrl-shift-P on Windows/Linux and searching for Flight.
+Tab triggers exist for all of the snippets, usually you should start typping `flight`.
+
+- Component and Mixin API (tab trigger: flight)
+  - Component (AMD)
+  - Component (CommonJS)
+  - Component (Standalone)
+  - Mixin (AMD)
+  - Mixin (CommonJS)
+  - Mixin (Standalone)
+
+- Test API
+  - describeComponent
+  - describeMixin
+
+- Component API
+  - attachTo
+
+- Advice API
+  - this.before
+  - this.after
+  - this.around
+
+- Base API
+  - this.attributes
+  - this.select
+  - this.on
+  - this.off
+  - this.trigger
 
 
 ## Contributing
