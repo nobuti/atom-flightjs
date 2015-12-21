@@ -1,0 +1,6 @@
+".source.js":
+  "Flight – attributes":
+    "prefix": "this.attributes"
+    "body": """
+    this.attributes({\n\t'${1:attributeName}': '${2:attribute-value}'$0\n});
+    """

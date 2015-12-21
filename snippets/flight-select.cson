@@ -1,0 +1,6 @@
+".source.js":
+  "Flight – this.select":
+    "prefix": "this.select"
+    "body": """
+    this.select('${1:attributeName}')${0:;}
+    """

@@ -1,0 +1,8 @@
+".source.js":
+  "Flight – this.before":
+    "prefix": "this.before"
+    "body": """
+    this.after(${1:existingFunctionName}', function() {
+      $0
+    });
+    """

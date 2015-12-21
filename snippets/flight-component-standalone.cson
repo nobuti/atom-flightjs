@@ -1,0 +1,17 @@
+".source.js":
+  "Flight – Component (Standalone)":
+    "prefix": "flight.component.standalone"
+    "body": """
+    var ${1:myComponent} = flight.component(function() {
+      'use strict';
+      this.attributes({
+        '${2:attributeName}': '${3:default-value}'
+      });
+      this.${4:doSomething} = function(e, data) {
+        $0
+      };
+      this.after('initialize', function() {
+        this.on('${5:eventName}', this.${4:doSomething});
+      });
+    });
+    """

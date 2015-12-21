@@ -1,0 +1,14 @@
+".source.js":
+  "Flight – Mixin (AMD)":
+    "prefix": "flight.mixin.amd"
+    "body": """
+    define(function(require) {
+      'use strict';
+      return with${1:MyMixin};
+      function with${1:MyMixin}() {
+        this.${2:doSomething} = function() {
+          $0
+        };
+      }
+    });
+    """

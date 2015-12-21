@@ -1,0 +1,6 @@
+".source.js":
+  "Flight – this.on":
+    "prefix": "this.on"
+    "body": """
+    this.on(${1:optionalElement, }'${2:eventName}', this.${3:myEventHandler});
+    """

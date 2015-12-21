@@ -1,0 +1,6 @@
+".source.js":
+  "Flight – this.off":
+    "prefix": "this.off"
+    "body": """
+    this.off(${1:optionalElement, }'${2:eventName}'${3:, this.myEventHandler});
+    """

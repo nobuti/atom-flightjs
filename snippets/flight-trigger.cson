@@ -1,0 +1,6 @@
+".source.js":
+  "Flight – this.trigger":
+    "prefix": "this.trigger"
+    "body": """
+    this.trigger(${1:optionalElement, }'${2:eventName}'${3:, \\{\\}});
+    """

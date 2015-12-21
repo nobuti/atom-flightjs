@@ -1,0 +1,14 @@
+".source.js":
+  "Flight – Describe Component":
+    "prefix": "describe.component"
+    "body": """
+    describeComponent('${1:component/hello-world}', function() {
+      'use strict';
+      beforeEach(function() {
+        setupComponent();
+      });
+      it('${2:should be defined}', function() {
+        ${3:expect(this.component).toBeDefined();}$0
+      });
+    });
+    """

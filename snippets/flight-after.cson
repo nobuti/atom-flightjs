@@ -1,0 +1,8 @@
+".source.js":
+  "Flight – this.after":
+    "prefix": "this.after"
+    "body": """
+    this.after('${1:initialize}', function() {
+      $0
+    });
+    """

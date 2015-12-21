@@ -1,0 +1,6 @@
+".source.js":
+  "Flight – attachTo":
+    "prefix": "attachTo"
+    "body": """
+    attachTo('${1:#element}'${2:, \\{$0\\}});
+    """
